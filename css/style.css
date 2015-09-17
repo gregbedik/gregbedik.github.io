@@ -31,7 +31,8 @@ span{
             margin-bottom: 50px;
         }
 p:first-child {
-    color: blue;
+    color: red;
+    background-color: white;
 } 
 tr:nth-child(even){
 background-color: yellow;
