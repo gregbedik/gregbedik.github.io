@@ -43,7 +43,7 @@ li:nth-child(1){
 }
 a:hover{
          background-color: white;
-         text-decoration: done;
+         text-decoration: none;
 }
 .uno{
          color: green;
