@@ -41,7 +41,7 @@ font-family: Arial;
 li:nth-child(1){
          color: purple;
 }
-a: hover{
+a:hover{
          background-color: white;
          text-decoration: done;
 }
