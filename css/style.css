@@ -33,7 +33,7 @@ tr:nth-child(even){
 background-color: yellow;
 color: green;
 }
-p:nth-child(1){
+p:first-child{
 background-color: white;
 color: red;
 font-family: Arial;
