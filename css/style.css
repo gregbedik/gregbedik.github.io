@@ -45,3 +45,18 @@ a: hover{
          color: white;
          text-decoration: done;
 }
+.uno{
+         color: green;
+         font-size: 8px;
+         text-decoration: line-through;
+}
+.dos{
+         color: yellow;
+         text-decoration: underline;
+         font-size: 16px;
+}
+.tres{
+         color: pink;
+         font-size: 20px;
+         text-decoration: overline;
+}
