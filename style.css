@@ -1,7 +1,7 @@
 body{
          background-color: #d9d9d9;
          color: #1414c0;
-         font-family: futura;
+         font-family: Arial;
 }
 span{
          color: red;
@@ -31,5 +31,12 @@ span{
 .instructions{
 background-color: yellow;
 color: green;
-         
+}
+.p{
+background-color: white;
+color: red;
+font-family: Arial;
+}
+.factone{
+         color: purple;
 }
