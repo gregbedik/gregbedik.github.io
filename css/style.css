@@ -29,7 +29,7 @@ span{
         table {
             margin-bottom: 50px;
         }
-.instructions{
+.tr:nth-child(even){
 background-color: yellow;
 color: green;
 }
