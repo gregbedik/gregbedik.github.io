@@ -29,7 +29,7 @@ span{
         table {
             margin-bottom: 50px;
         }
-.tr:nth-child(even){
+tr:nth-child(even){
 background-color: yellow;
 color: green;
 }
@@ -38,7 +38,7 @@ background-color: white;
 color: red;
 font-family: Arial;
 }
-.factone{
+li:nth-child(1){
          color: purple;
 }
 a: hover{
