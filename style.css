@@ -3,6 +3,9 @@ body{
          color: #1414c0;
          font-family: futura;
 }
+span{
+         color: red;
+}
 .container {
          width: 50%;
             margin: 0 auto;
