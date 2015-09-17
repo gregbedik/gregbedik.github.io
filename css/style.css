@@ -42,7 +42,7 @@ li:nth-child(1){
          color: purple;
 }
 a: hover{
-         color: white;
+         background-color: white;
          text-decoration: done;
 }
 .uno{
