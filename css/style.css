@@ -1,1 +1,43 @@
 
+body{
+         background-color: #d9d9d9;
+         color: #1414c0;
+         font-family: Arial;
+}
+span{
+         color: red;
+}
+.container {
+         width: 50%;
+            margin: 0 auto;
+        }
+        
+       
+         .left {
+        float: left;
+             width: 40%;
+        }
+            .right {
+        float: left;
+             width: 40%;
+                margin-left: 10%;
+        }
+        table, tr, th, td {
+            border: 1px solid black;
+            padding: 8px;
+        }
+        table {
+            margin-bottom: 50px;
+        }
+.instructions{
+background-color: yellow;
+color: green;
+}
+.p{
+background-color: white;
+color: red;
+font-family: Arial;
+}
+.factone{
+         color: purple;
+}
