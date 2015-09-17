@@ -30,7 +30,7 @@ span{
         table {
             margin-bottom: 50px;
         }
-p:first{
+.p{
     color: red;
     background-color: white;
 } 
