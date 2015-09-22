@@ -1,1 +1,50 @@
-test
+body{
+    background-color: #6A8455;
+}
+.wrap{
+    background-color: tan;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 100%;
+}
+.header{
+text-align: right;
+font-size: 20px;
+vertical-align: middle;
+padding: 20px;
+}
+.nav{
+background-color: green;
+border-bottom: dashed 3px white;
+}
+  
+.navul  {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.navli{
+display: inline;
+padding-left: 30px;
+font-size: 40px;
+}
+.sidebar{
+float: right;
+    text-align: center;
+    width: 15%;
+}
+.content{
+float:left;
+    width: 85%;
+background-color: darkseagreen;
+}
+a{
+text-decoration: none;
+    color: blue;
+}
+span{
+    color: purple;
+}
+.footer{
+padding: 300px;
+}
