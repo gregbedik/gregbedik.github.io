@@ -9,9 +9,8 @@ body{
 }
 .header{
 text-align: right;
-font-size: 20px;
-vertical-align: middle;
-padding: 20px;
+font-size: 40px;
+padding-top: 20px;
 }
 .nav{
 background-color: green;
