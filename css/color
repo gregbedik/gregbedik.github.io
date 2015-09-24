@@ -1,1 +1,52 @@
-test
+.container{
+background-color:lightyellow;
+margin: 0 auto;
+}
+.header h1{
+float: left;
+margin: 0 50px 0 30px;
+}
+.header li{
+padding-left:20px;
+margin-top: 10px;
+display: inline;
+}
+.header{
+background-color: lightcoral;
+clear:both;
+padding-bottom: 20px;
+}
+.content{
+width: 75%;
+background-color: lightgreen;
+float: left;
+}
+.top-content{
+float: left;
+ clear:both;
+}
+.top-content img{
+float: left;
+padding: 10px;
+}
+.description{
+padding:10px 20px 0;
+clear: right;
+}
+.section{
+float: left;
+width: 33%
+}
+.aside{
+float: left;
+width: 25%;
+background-color: yellow;
+}
+.footer{
+background-color:lightskyblue
+clear: both;
+}
+li{
+list-style: none;
+}
+
