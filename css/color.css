@@ -1,5 +1,5 @@
 .container{
-background-color:lightyellow;
+background-color:yellow;
 margin: 0 auto;
 }
 .header h1{
@@ -41,12 +41,16 @@ width: 33%
 float: left;
 width: 25%;
 background-color: yellow;
+text-align: center;
 }
 .footer{
-background-color:lightskyblue
+background-color:lightskyblue;
 clear: both;
+	text-align: center;
+	padding: 10px;
 }
 li{
 list-style: none;
 }
+
 
