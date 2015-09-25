@@ -35,7 +35,8 @@ clear: right;
 }
 .section{
 float: left;
-width: 33%
+width: 30%;
+padding-left: 10px;
 }
 .aside{
 float: left;
@@ -44,13 +45,14 @@ background-color: yellow;
 text-align: center;
 }
 .footer{
-background-color:lightskyblue;
+background-color: lightskyblue;
 clear: both;
-	text-align: center;
-	padding: 10px;
+text-align: center;
+padding: 10px;
 }
 li{
 list-style: none;
 }
+
 
 
