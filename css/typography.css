@@ -1,0 +1,55 @@
+body{
+    background-color: #737373;
+}
+h1{
+   color: #00bfff;
+    text-align: center;
+    font-size: 4em;
+}
+h2{
+ color: #ff6a6a;
+     text-align: center;
+    font-size: 3em;
+    
+}
+h3{
+ color: #24d330;
+     text-align: center;
+    font-size: 2em;
+}
+p{
+     color: #ffffff;
+    text-align: justify;
+}
+.one{
+    background-color: #000000;
+    max-width: 50em;
+    margin: auto;
+    line-height: 2em;
+    font-family: Verdana;
+    padding: 10px;
+}
+.two{
+    background-color: #000000;
+    max-width: 50em;
+    margin: auto;
+    line-height: 2em;
+    font-family: Verdana;
+    padding: 10px;
+    margin-top: 50px;
+}
+.three{
+    background-color: #000000;
+    max-width: 50em;
+    margin: auto;
+    line-height: 2em;
+    font-family: Verdana;
+    padding: 10px;
+    margin-top: 50px;
+   
+}
+.a{
+    color: #00bfff;
+    font-size: 1.25em;
+    text-decoration: none;
+}
