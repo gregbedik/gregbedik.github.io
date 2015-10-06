@@ -1,0 +1,52 @@
+body {
+    background: #aeaeae;
+    color: #000000;
+}
+
+.main-content {
+    width: 1000px;
+    margin: 0 auto;
+    line-height: 2em;
+}
+
+.u {
+    text-decoration: underline;
+}
+
+.mets {
+    background: #FFA500;
+    color: #031368;
+    border: black solid 2px;
+}
+
+.dodgers {
+    background: #0000ff;
+    color: #fff717;
+     border: black solid 2px;
+}
+
+.cubs {
+     border: black solid 2px;
+}
+
+.pittsburgh {
+    background: #ffff00;
+    color: #78008b;
+     border: black solid 2px;
+}
+
+.cardinals {
+    background: #ff7c7c;
+    color: #070046;
+     border: black solid 2px;
+}
+
+.table-container {
+    background: #000000;
+    color: #05ffcd;
+     border: #05ffcd solid 2px;
+}
+td,tr, th{
+     border: white solid 2px;
+    text-align: center;
+}
