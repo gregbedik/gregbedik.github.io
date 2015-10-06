@@ -1,52 +1,96 @@
 body {
     background: #aeaeae;
     color: #000000;
+    text-align: justify
+         
 }
 
 .main-content {
     width: 1000px;
     margin: 0 auto;
     line-height: 2em;
+    font-size: 20px;
 }
 
 .u {
-    text-decoration: underline;
+    text-decoration: none;
 }
-
+a{
+    text-decoration: none;
+}
 .mets {
     background: #FFA500;
     color: #031368;
     border: black solid 2px;
+    padding: 20px;
+    font-family: "Tahoma";
 }
-
+a,.mets{
+    color: #031368;
+    font-size: 20px;
+}
 .dodgers {
     background: #0000ff;
     color: #fff717;
      border: black solid 2px;
+           padding: 20px;
 }
 
 .cubs {
      border: black solid 2px;
+           padding: 20px;
 }
 
 .pittsburgh {
     background: #ffff00;
     color: #78008b;
      border: black solid 2px;
+       padding: 20px;
 }
 
 .cardinals {
     background: #ff7c7c;
     color: #070046;
      border: black solid 2px;
+           padding: 20px;
 }
 
 .table-container {
     background: #000000;
     color: #05ffcd;
      border: #05ffcd solid 2px;
+           padding: 20px;
 }
 td,tr, th{
      border: white solid 2px;
     text-align: center;
+}
+table{
+    margin: 0 auto;
+}
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.mlb{
+    color: #000000;
+    font-weight: bold;
+}
+.metslink{
+    color: #000000;
+    font-weight: bold;
+}
+.cubslink{
+    color: #000000;
+    font-weight: bold;
+}
+.cardinalslink{
+    color: #000000;
+    font-weight: bold;
+}
+.lalink{
+    color: #000000;
+    font-weight: bold;
 }
