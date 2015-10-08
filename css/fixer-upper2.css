@@ -77,20 +77,32 @@ h1{
 .mlb{
     color: #000000;
     font-weight: bold;
+    font-family: "Arial";
 }
 .metslink{
-    color: #000000;
+    color: #031368;
     font-weight: bold;
+    font-family: "Arial";
 }
-.cubslink{
+.chicagolink{
     color: #000000;
     font-weight: bold;
+    font-family: "Arial";
 }
 .cardinalslink{
     color: #000000;
     font-weight: bold;
+    font-family: "Arial";
 }
 .lalink{
-    color: #000000;
+    color: #fff717;
     font-weight: bold;
+    font-family: "Arial";
 }
+.pittlink{
+    color: #78008b;
+    font-weight: bold;
+    font-family: "Arial";
+}
+
+
