@@ -1,0 +1,68 @@
+
+html{
+background: url("https://cloud.githubusercontent.com/assets/14021347/11108544/9b99c472-88b5-11e5-9657-b89b42c31e03.jpg");
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat; 
+width: 100%;
+height: 100%;
+}
+#fuego{
+width: 100px;
+    float: left;
+}
+.nav{
+    float: right;
+    color: #ffffff;
+    font-size: 40px;
+    width: 25%;
+    text-align: right;
+    font-family: Architects Daughter;
+}
+a{
+    color: #ffffff;
+  text-decoration: none;
+}
+.fit{
+    color: #ffffff;
+    text-align: center;
+    font-family: Montserrat Alternates;
+    font-size: 60px;
+}
+.button{
+text-decoration: none;
+color: #ffffff;
+text-align: center;
+background-color: transparent;
+width: 10%;
+height: 20px;
+margin: 0 auto;
+border-radius: 20px;
+padding: 20px;
+padding-bottom: 40px;
+border: 5px groove white;
+text-decoration: none;
+list-style-type: none;
+font-size: 30px;
+font-family: Fira Sans;
+}
+.button a{
+    background-color: transparent;
+    text-decoration: none;
+}
+.button:hover{
+    background-color:  gainsboro;
+    text-decoration: none;
+}
+.button:visited{
+    color: transparent;
+    text-decoration: none;
+}
+@media(max-width: 1376px;){
+html{
+    width: 100%;
+}
+    .button{
+    width: 100%;
+    }
+}
